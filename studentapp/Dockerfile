@@ -2,7 +2,7 @@
 FROM ubuntu:22.04  
 
 
-LABEL dev="shubham"
+LABEL dev="shubhamshipekar"
 
 RUN apt-get update && \
 apt-get install unzip openjdk-11-jdk -y  
